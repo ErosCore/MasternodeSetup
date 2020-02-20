@@ -8,6 +8,6 @@ Required:
 
 ## VPS Commands:
 
-wget -q https://raw.githubusercontent.com/ErosCore/MasternodeSetup/master/masternodeinstall.sh
-sudo chmod +x masternodeinstall.sh
-./masternodeinstall.sh
+### wget -q https://raw.githubusercontent.com/ErosCore/MasternodeSetup/master/masternodeinstall.sh
+### sudo chmod +x masternodeinstall.sh
+### ./masternodeinstall.sh
